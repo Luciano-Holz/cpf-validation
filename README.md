@@ -9,8 +9,7 @@ This is a simple project in Typescript, with a function to validate a Cpf.
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=Node&message=12.22.5&color=green&style=for-the-badge&logo=node.js"/>
-   <img src="http://img.shields.io/static/v1?label=MongoDB&message=5.0.3&color=green&style=for-the-badge&logo=mongodb"/>
-   <img src="http://img.shields.io/static/v1?label=javascript&message=1.7&color=yellow&style=for-the-badge&logo=javascript"/>
+   <img src="http://img.shields.io/static/v1?label=javascript&message=1.7&color=yellow&style=for-the-badge&logo=typescript"/>
    <img src="http://img.shields.io/static/v1?label=express&message=4.17.1&color=blue&style=for-the-badge&logo=express"/>
 </p>
 
@@ -29,8 +28,6 @@ npm install
 
 ## Requirements
 [Node.js](https://nodejs.org/en/)
-
-[MongoDB](https://www.mongodb.com/pt-br)
 
 ##  Using
 
