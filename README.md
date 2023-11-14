@@ -9,8 +9,8 @@ This is a simple project in Typescript, with a function to validate a Cpf.
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=Node&message=12.22.5&color=green&style=for-the-badge&logo=node.js"/>
-   <img src="http://img.shields.io/static/v1?label=javascript&message=1.7&color=yellow&style=for-the-badge&logo=typescript"/>
-   <img src="http://img.shields.io/static/v1?label=express&message=4.17.1&color=blue&style=for-the-badge&logo=express"/>
+   <img src="http://img.shields.io/static/v1?label=Typescript&message=1.7&color=yellow&style=for-the-badge&logo=typescript"/>
+   <img src="http://img.shields.io/static/v1?label=Express&message=4.17.1&color=blue&style=for-the-badge&logo=express"/>
 </p>
 
 ## Instalation
